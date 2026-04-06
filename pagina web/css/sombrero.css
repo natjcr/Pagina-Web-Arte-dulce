@@ -1,0 +1,54 @@
+h1  {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;   
+    align-items: center;    
+    padding: 20px;    
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 0px #020202, 2px 2px 0px #151514, 3px 3px 0px #0c0c0c, 4px 4px 5px rgba(0, 0, 0, 0.5);
+
+    
+}
+.h3 {
+    font-size: 35px;
+    text-align: center;    
+    color: var(--primary-gold);
+    font-size: 50px;
+    font-weight: 900;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 20px;
+    text-shadow: 1px 1px 0px #867878, 2px 2px 0px #fffffc, 3px 3px 0px #0c0c0c, 4px 4px 5px rgba(0, 0, 0, 0.5);
+}
+
+div p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-size: 17px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.card h2 {
+    color: #c68f6a;
+    font-size: 1.5rem;
+    border-bottom: 1px solid var(--primary-gold);
+    padding-bottom:20px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 0px #1A1612, 2px 2px 0px #4A4439, 3px 3px 0px  #7B241C, 4px 4px 5px rgba(1, 1, 1, 0.975);
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
